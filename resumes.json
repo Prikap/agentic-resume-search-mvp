@@ -1,0 +1,989 @@
+[
+  {
+    "candidate_name": "Priyansh Kapadia",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "TypeScript",
+      "JavaScript",
+      "DSA",
+      "System Design"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering",
+      "field": "Computer Science & Engineering",
+      "institution": "Chandigarh University",
+      "year": "2025"
+    },
+    "location": "Chandigarh, India",
+    "years_of_experience": 1,
+    "summary": "Full-stack web developer specializing in building scalable web applications and AI-powered solutions. Experienced in React, Node.js, and backend development."
+  },
+  {
+    "candidate_name": "Ananya Sharma",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Electronics & Communication",
+      "institution": "VIT Vellore",
+      "year": "2024"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 1,
+    "summary": "Big data engineer specializing in distributed data pipelines and real-time analytics."
+  },
+  {
+    "candidate_name": "Rahul Mehta",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Computer Science",
+      "institution": "BITS Pilani",
+      "year": "2018"
+    },
+    "location": "Kolkata, India",
+    "years_of_experience": 0,
+    "summary": "Business analyst skilled in dashboards, reporting, and data-driven decision making."
+  },
+  {
+    "candidate_name": "Sneha Patel",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Data Science",
+      "institution": "VIT Vellore",
+      "year": "2018"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 9,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Arjun Nair",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Interaction Design",
+      "institution": "BITS Pilani",
+      "year": "2022"
+    },
+    "location": "Kolkata, India",
+    "years_of_experience": 8,
+    "summary": "AI and ML engineer with expertise in predictive modeling, NLP, and data analytics."
+  },
+  {
+    "candidate_name": "Ritika Verma",
+    "skills": [
+      "Rust",
+      "Distributed Systems",
+      "Blockchain",
+      "Solidity",
+      "Web3"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Business Analytics",
+      "institution": "VIT Vellore",
+      "year": "2020"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 0,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Kunal Singh",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Business Analytics",
+      "institution": "BITS Pilani",
+      "year": "2023"
+    },
+    "location": "Hyderabad, India",
+    "years_of_experience": 3,
+    "summary": "Mobile app developer focusing on Flutter and cross-platform apps."
+  },
+  {
+    "candidate_name": "Neha Joshi",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Electronics & Communication",
+      "institution": "IIIT Hyderabad",
+      "year": "2022"
+    },
+    "location": "Ahmedabad, India",
+    "years_of_experience": 4,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Aditya Rao",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Electronics & Communication",
+      "institution": "IIT Madras",
+      "year": "2024"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 8,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Meera Iyer",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "institution": "IIIT Hyderabad",
+      "year": "2025"
+    },
+    "location": "Chennai, India",
+    "years_of_experience": 8,
+    "summary": "Blockchain developer working on smart contracts and decentralized applications."
+  },
+  {
+    "candidate_name": "Vikram Desai",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Excel",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Data Science",
+      "institution": "IIT Bombay",
+      "year": "2023"
+    },
+    "location": "Chennai, India",
+    "years_of_experience": 10,
+    "summary": "Mobile app developer focusing on Flutter and cross-platform apps."
+  },
+  {
+    "candidate_name": "Pooja Bansal",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Business Analytics",
+      "institution": "NIT Trichy",
+      "year": "2019"
+    },
+    "location": "Kolkata, India",
+    "years_of_experience": 2,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Rohan Kulkarni",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Data Science",
+      "institution": "IIIT Hyderabad",
+      "year": "2025"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 6,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Simran Gupta",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "AWS",
+      "CI/CD"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Electronics & Communication",
+      "institution": "MIT Institute of Design",
+      "year": "2025"
+    },
+    "location": "Kolkata, India",
+    "years_of_experience": 8,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Siddharth Jain",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Excel",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Business Analytics",
+      "institution": "BITS Pilani",
+      "year": "2021"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 6,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Tanvi Malhotra",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "Pandas",
+      "Data Visualization"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Electronics & Communication",
+      "institution": "VIT Vellore",
+      "year": "2021"
+    },
+    "location": "Bengaluru, India",
+    "years_of_experience": 3,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Ishaan Khurana",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "Pandas",
+      "Data Visualization"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Business Analytics",
+      "institution": "IIT Delhi",
+      "year": "2022"
+    },
+    "location": "Ahmedabad, India",
+    "years_of_experience": 4,
+    "summary": "AI and ML engineer with expertise in predictive modeling, NLP, and data analytics."
+  },
+  {
+    "candidate_name": "Harshita Agarwal",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Next.js",
+      "TypeScript",
+      "CSS"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Artificial Intelligence",
+      "institution": "IIT Delhi",
+      "year": "2019"
+    },
+    "location": "Chennai, India",
+    "years_of_experience": 4,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Nikhil Choudhary",
+    "skills": [
+      "Scala",
+      "Spark",
+      "Kafka",
+      "Hadoop",
+      "Data Engineering"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Data Science",
+      "institution": "IIIT Hyderabad",
+      "year": "2018"
+    },
+    "location": "Bengaluru, India",
+    "years_of_experience": 9,
+    "summary": "Blockchain developer working on smart contracts and decentralized applications."
+  },
+  {
+    "candidate_name": "Aarav Menon",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Business Analytics",
+      "institution": "VIT Vellore",
+      "year": "2020"
+    },
+    "location": "Hyderabad, India",
+    "years_of_experience": 10,
+    "summary": "AI and ML engineer with expertise in predictive modeling, NLP, and data analytics."
+  },
+  {
+    "candidate_name": "Divya Reddy",
+    "skills": [
+      "Scala",
+      "Spark",
+      "Kafka",
+      "Hadoop",
+      "Data Engineering"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Interaction Design",
+      "institution": "MIT Institute of Design",
+      "year": "2019"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 2,
+    "summary": "Backend developer with experience designing microservice architectures and cloud systems."
+  },
+  {
+    "candidate_name": "Manish Tiwari",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Excel",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Information Technology",
+      "institution": "NIT Trichy",
+      "year": "2024"
+    },
+    "location": "Chennai, India",
+    "years_of_experience": 0,
+    "summary": "Business analyst skilled in dashboards, reporting, and data-driven decision making."
+  },
+  {
+    "candidate_name": "Alok Sinha",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "Pandas",
+      "Data Visualization"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Interaction Design",
+      "institution": "IIT Bombay",
+      "year": "2022"
+    },
+    "location": "Bengaluru, India",
+    "years_of_experience": 0,
+    "summary": "DevOps engineer with expertise in automation, CI/CD pipelines, and cloud-native systems."
+  },
+  {
+    "candidate_name": "Shreya Ghosh",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Information Technology",
+      "institution": "IIT Bombay",
+      "year": "2021"
+    },
+    "location": "Mumbai, India",
+    "years_of_experience": 7,
+    "summary": "Mobile app developer focusing on Flutter and cross-platform apps."
+  },
+  {
+    "candidate_name": "Varun Kapoor",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android",
+      "iOS",
+      "React Native"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Electronics & Communication",
+      "institution": "MIT Institute of Design",
+      "year": "2022"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 3,
+    "summary": "Business analyst skilled in dashboards, reporting, and data-driven decision making."
+  },
+  {
+    "candidate_name": "Ira Saxena",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "Pandas",
+      "Data Visualization"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Electronics & Communication",
+      "institution": "NIT Trichy",
+      "year": "2018"
+    },
+    "location": "Mumbai, India",
+    "years_of_experience": 5,
+    "summary": "Big data engineer specializing in distributed data pipelines and real-time analytics."
+  },
+  {
+    "candidate_name": "Abhinav Mishra",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Data Science",
+      "institution": "VIT Vellore",
+      "year": "2023"
+    },
+    "location": "Hyderabad, India",
+    "years_of_experience": 8,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Kritika Nanda",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Data Science",
+      "institution": "MIT Institute of Design",
+      "year": "2019"
+    },
+    "location": "Ahmedabad, India",
+    "years_of_experience": 2,
+    "summary": "Blockchain developer working on smart contracts and decentralized applications."
+  },
+  {
+    "candidate_name": "Deepak Yadav",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Excel",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Computer Science",
+      "institution": "VIT Vellore",
+      "year": "2021"
+    },
+    "location": "Ahmedabad, India",
+    "years_of_experience": 3,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Swati Raj",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android",
+      "iOS",
+      "React Native"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Information Technology",
+      "institution": "IIT Madras",
+      "year": "2023"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 1,
+    "summary": "AI and ML engineer with expertise in predictive modeling, NLP, and data analytics."
+  },
+  {
+    "candidate_name": "Arvind Krishnan",
+    "skills": [
+      "Rust",
+      "Distributed Systems",
+      "Blockchain",
+      "Solidity",
+      "Web3"
+    ],
+    "education": {
+      "degree": "Master of Technology",
+      "field": "Information Technology",
+      "institution": "BITS Pilani",
+      "year": "2022"
+    },
+    "location": "Chennai, India",
+    "years_of_experience": 0,
+    "summary": "AI and ML engineer with expertise in predictive modeling, NLP, and data analytics."
+  },
+  {
+    "candidate_name": "Anjali Deshmukh",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "Pandas",
+      "Data Visualization"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering",
+      "field": "Information Technology",
+      "institution": "IIIT Hyderabad",
+      "year": "2020"
+    },
+    "location": "Hyderabad, India",
+    "years_of_experience": 8,
+    "summary": "Big data engineer specializing in distributed data pipelines and real-time analytics."
+  },
+  {
+    "candidate_name": "Karthik Pillai",
+    "skills": [
+      "Rust",
+      "Distributed Systems",
+      "Blockchain",
+      "Solidity",
+      "Web3"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Electronics & Communication",
+      "institution": "IIT Madras",
+      "year": "2025"
+    },
+    "location": "Bengaluru, India",
+    "years_of_experience": 1,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Sonia Dutta",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android",
+      "iOS",
+      "React Native"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Information Technology",
+      "institution": "Delhi Technological University",
+      "year": "2020"
+    },
+    "location": "Hyderabad, India",
+    "years_of_experience": 3,
+    "summary": "Frontend developer passionate about creating performant, user-friendly interfaces."
+  },
+  {
+    "candidate_name": "Parth Rawal",
+    "skills": [
+      "Scala",
+      "Spark",
+      "Kafka",
+      "Hadoop",
+      "Data Engineering"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Interaction Design",
+      "institution": "BITS Pilani",
+      "year": "2018"
+    },
+    "location": "Hyderabad, India",
+    "years_of_experience": 9,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Muskaan Arora",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Excel",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Artificial Intelligence",
+      "institution": "NIT Trichy",
+      "year": "2022"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 9,
+    "summary": "DevOps engineer with expertise in automation, CI/CD pipelines, and cloud-native systems."
+  },
+  {
+    "candidate_name": "Tejas Patil",
+    "skills": [
+      "Scala",
+      "Spark",
+      "Kafka",
+      "Hadoop",
+      "Data Engineering"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Artificial Intelligence",
+      "institution": "Delhi Technological University",
+      "year": "2023"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 7,
+    "summary": "Backend developer with experience designing microservice architectures and cloud systems."
+  },
+  {
+    "candidate_name": "Rajeev Bhandari",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Business Analytics",
+      "institution": "IIIT Hyderabad",
+      "year": "2023"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 1,
+    "summary": "Backend developer with experience designing microservice architectures and cloud systems."
+  },
+  {
+    "candidate_name": "Akanksha Jha",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Next.js",
+      "TypeScript",
+      "CSS"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Data Science",
+      "institution": "IIIT Hyderabad",
+      "year": "2023"
+    },
+    "location": "Ahmedabad, India",
+    "years_of_experience": 8,
+    "summary": "Mobile app developer focusing on Flutter and cross-platform apps."
+  },
+  {
+    "candidate_name": "Suresh Iyer",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android",
+      "iOS",
+      "React Native"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Business Analytics",
+      "institution": "Delhi Technological University",
+      "year": "2023"
+    },
+    "location": "Chennai, India",
+    "years_of_experience": 5,
+    "summary": "Big data engineer specializing in distributed data pipelines and real-time analytics."
+  },
+  {
+    "candidate_name": "Chirag Malhotra",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Next.js",
+      "TypeScript",
+      "CSS"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "institution": "IIT Bombay",
+      "year": "2024"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 3,
+    "summary": "Big data engineer specializing in distributed data pipelines and real-time analytics."
+  },
+  {
+    "candidate_name": "Rashmi Pandey",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Next.js",
+      "TypeScript",
+      "CSS"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Information Technology",
+      "institution": "IIT Bombay",
+      "year": "2024"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 3,
+    "summary": "AI and ML engineer with expertise in predictive modeling, NLP, and data analytics."
+  },
+  {
+    "candidate_name": "Mohit Rathi",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Computer Science",
+      "institution": "NIT Trichy",
+      "year": "2018"
+    },
+    "location": "Mumbai, India",
+    "years_of_experience": 7,
+    "summary": "DevOps engineer with expertise in automation, CI/CD pipelines, and cloud-native systems."
+  },
+  {
+    "candidate_name": "Vaibhav Goyal",
+    "skills": [
+      "Scala",
+      "Spark",
+      "Kafka",
+      "Hadoop",
+      "Data Engineering"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Artificial Intelligence",
+      "institution": "BITS Pilani",
+      "year": "2024"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 5,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Monika Rathore",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Excel",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "education": {
+      "degree": "Master of Science",
+      "field": "Interaction Design",
+      "institution": "IIT Bombay",
+      "year": "2017"
+    },
+    "location": "Kolkata, India",
+    "years_of_experience": 0,
+    "summary": "DevOps engineer with expertise in automation, CI/CD pipelines, and cloud-native systems."
+  },
+  {
+    "candidate_name": "Ashwin Narayan",
+    "skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Competitive Programming",
+      "System Design"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering",
+      "field": "Data Science",
+      "institution": "IIM Bangalore",
+      "year": "2023"
+    },
+    "location": "Pune, India",
+    "years_of_experience": 3,
+    "summary": "Mobile app developer focusing on Flutter and cross-platform apps."
+  },
+  {
+    "candidate_name": "Jyoti Kumari",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android",
+      "iOS",
+      "React Native"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering",
+      "field": "Artificial Intelligence",
+      "institution": "MIT Institute of Design",
+      "year": "2022"
+    },
+    "location": "Mumbai, India",
+    "years_of_experience": 1,
+    "summary": "UI/UX designer with a passion for building intuitive and accessible digital products."
+  },
+  {
+    "candidate_name": "Pranav Shetty",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "AWS",
+      "CI/CD"
+    ],
+    "education": {
+      "degree": "Bachelor of Design",
+      "field": "Artificial Intelligence",
+      "institution": "VIT Vellore",
+      "year": "2019"
+    },
+    "location": "Ahmedabad, India",
+    "years_of_experience": 6,
+    "summary": "Business analyst skilled in dashboards, reporting, and data-driven decision making."
+  },
+  {
+    "candidate_name": "Tanya Oberoi",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "AWS",
+      "CI/CD"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering",
+      "field": "Business Analytics",
+      "institution": "IIT Madras",
+      "year": "2023"
+    },
+    "location": "Kolkata, India",
+    "years_of_experience": 9,
+    "summary": "Big data engineer specializing in distributed data pipelines and real-time analytics."
+  },
+  {
+    "candidate_name": "Rajat Saxena",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "education": {
+      "degree": "Bachelor of Engineering",
+      "field": "Data Science",
+      "institution": "VIT Vellore",
+      "year": "2022"
+    },
+    "location": "New Delhi, India",
+    "years_of_experience": 1,
+    "summary": "Business analyst skilled in dashboards, reporting, and data-driven decision making."
+  }
+]
